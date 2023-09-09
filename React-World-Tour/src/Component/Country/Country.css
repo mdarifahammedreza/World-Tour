@@ -1,0 +1,26 @@
+.country {
+  background-color: rgba(250, 5, 250, 0.226);
+  border: 2px solid rgba(250, 5, 250, 0.568);
+  padding: 15px;
+  text-align: center;
+  margin-top: 18px;
+  border-radius: 5px;
+  box-shadow: 10px 13px 15px rgba(250, 5, 250, 0.11);
+}
+.country h4,
+h5,
+p {
+  text-align: left;
+}
+.flag {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+}
+.flag:hover {
+  border: 1px solid #498feb;
+  box-shadow: 1px 1px 8px 3px rgba(250, 5, 250, 0.568);
+}
